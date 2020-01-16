@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Hello, Siddhesh How are you !!   </h1>
+<h2> Deploying web application from Siddhesh's GUTHUB </h2>
+<h2> Using Jenkins, Maven and Tomcat </h2>
+<h2> Guntala Kadhu Gula Gula ..Hu Ha Hu Ha </h2>
